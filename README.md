@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **I am passionate about video games, and my love for this world goes beyond just playing. I enjoy immersing myself in the creation and design of my own Universes. Although I am still learning programming and web design, I eagerly dive into acquiring new skills to bring my ideas and projects to life. Although I am at the beginning of my journey in software development, my dedication and passion for learning promise an exciting future in the field of digital creation. I represent the perfect combination of love for video games, creativity and determination to become a talented developer and designer in the vast digital world.**
 
-- 📫 How to reach me **alejodev@skiff.com**
+- 📫 How to reach me **reddgx28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
